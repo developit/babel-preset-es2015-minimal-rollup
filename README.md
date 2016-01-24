@@ -8,7 +8,7 @@
 ## Installation
 
 ```sh
-$ npm i -S babel-preset-es2015-minimal-rollup
+$ npm i -S babel-preset-es2015 babel-preset-es2015-minimal babel-preset-es2015-minimal-rollup
 ```
 
 

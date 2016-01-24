@@ -8,7 +8,10 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "babel-preset-es2015-minimal": "^1.0.0",
     "modify-babel-preset": "^1.0.0"
+  },
+  "peerDependencies": {
+    "babel-preset-es2015": "*",
+    "babel-preset-es2015-minimal": "*"
   }
 }
