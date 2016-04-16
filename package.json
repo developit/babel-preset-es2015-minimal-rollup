@@ -8,7 +8,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "node -p 'require(\".\").plugins.length === require(\"babel-preset-es2015\").plugins.length-2 && \"PASS\"'"
+    "test": "node test"
   },
   "dependencies": {
     "babel-plugin-external-helpers": "^6.5.0",
