@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-minimal-rollup",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Babel es2015 preset in loose mode without frills, made for Rollup.",
   "author": "Jason Miller <jason@developit.ca>",
   "homepage": "https://github.com/developit/babel-preset-es2015-minimal-rollup",
