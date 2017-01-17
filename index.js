@@ -16,8 +16,7 @@ module.exports = modify('es2015', {
 	'transform-es2015-typeof-symbol': false,
 
 	// remove commonjs transform
-	'transform-es2015-modules-commonjs': false,
-
-	// add external helpers
-	'external-helpers': true
+	'transform-es2015-modules-commonjs': false
 });
+
+module.exports.plugins.push(require('babel-plugin-external-helpers'));
