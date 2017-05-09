@@ -1,5 +1,7 @@
 # babel-preset-es2015-minimal-rollup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/babel-preset-es2015-minimal-rollup.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/babel-preset-es2015-minimal-rollup.svg)](http://npm.im/babel-preset-es2015-minimal-rollup)
 [![travis](https://travis-ci.org/developit/babel-preset-es2015-minimal-rollup.svg?branch=master)](https://travis-ci.org/developit/babel-preset-es2015-minimal-rollup)
 
